@@ -1,16 +1,16 @@
 div{
    border-style: solid;
    border-width: 1px;
-   border-color: #2aabd2;
+   border-color: lime;
    padding: 30px;
 }
 
 .container {
-    border-color: #2aabd2;
+    border-color: lime;
 }
 
 .row {
-    border-color: #2aabd2;
+    border-color: lime;
 }
 
 .list-group-item {
@@ -20,6 +20,8 @@ div{
 }
 
 body{
-    color: #2aabd2
+    color: lime
 }
+
+
 
