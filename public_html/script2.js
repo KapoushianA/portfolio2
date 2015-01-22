@@ -6,7 +6,7 @@
 
 $("document").ready(function(){
     $(".oranges").css("background-color", "cyan"); 
-    $("p:first").css("color", "blue");
+    $("p:first").css("color", "black");
     
     $("h1").bind('mouseover', mouseOverMe).bind('mouseout', mouseOutMe);
     
